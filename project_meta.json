@@ -1,10 +1,17 @@
 {
-  "seq": 63,
   "title": "ETF Investment Simulator and Portfolio Analysis Platform",
-  "slug": "etf-investment-simulator-and-portfolio-analysis-platfor",
+  "old_slug": "etf-investment-simulator-and-portfolio-analysis-platfor",
+  "slug": "etf-portfolio-simulator",
   "folder": "Etf_Investment_Simulator_And_Portfolio_Analysis_Platfor",
-  "kind": "app",
-  "body_words": 241,
+  "kind": "product",
+  "body_words": 303,
+  "source": "MICT Academic",
   "project_id": "Academic Project 5",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
